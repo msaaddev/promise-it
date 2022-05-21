@@ -11,9 +11,20 @@
 	"main": "index.js",
 	"license": "MIT",
 	"scripts": {
-		"format": "prettier --write \"./**/*.{js,json}\""
+		"format": "prettier --write \"./**/*.{js,json}\"",
+		"test": "node test.js"
 	},
-	"keywords": [],
+	"keywords": [
+		"promisify",
+		"promise",
+		"async",
+		"await",
+		"promise-it",
+		"promise-it-js",
+		"promise-it-node",
+		"promise-it-node-js",
+		"promise-it-node-js-promise"
+	],
 	"devDependencies": {
 		"prettier": "^2.6.2"
 	}
