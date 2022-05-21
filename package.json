@@ -1,5 +1,5 @@
 {
-	"name": "promise-it",
+	"name": "@msaaddev/promise-it",
 	"version": "0.1.0",
 	"description": "Turns any function into a promise with one line of code.",
 	"repository": "https://github.com/msaaddev/promise-it",
@@ -11,7 +11,7 @@
 	"main": "index.js",
 	"license": "MIT",
 	"scripts": {
-		"format": "prettier --write \"./**/*.{js,json}\"",
+		"format": "prettier --write \"./**/*.{js,json,md}\"",
 		"test": "node test.js"
 	},
 	"keywords": [
