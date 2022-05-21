@@ -1,6 +1,6 @@
 {
 	"name": "@msaaddev/promise-it",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Turns any function into a promise with one line of code.",
 	"repository": "https://github.com/msaaddev/promise-it",
 	"author": {
