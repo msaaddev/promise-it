@@ -2,8 +2,8 @@
 
 <div align="center">
 	<img src="https://img.shields.io/npm/v/@msaaddev/promise-it?color=%230F2345" alt="version">
-	<img src="https://img.shields.io/npm/l/msaaddev/promise-it?color=%230F2345" alt="license">
-	<img src="https://img.shields.io/npm/dt/msaaddev/promise-it?color=%230F2345" alt="downloads">
+	<img src="https://img.shields.io/npm/l/@msaaddev/promise-it?color=%230F2345" alt="license">
+	<img src="https://img.shields.io/npm/dt/@msaaddev/promise-it?color=%230F2345" alt="downloads">
 	<a href="https://stars.github.com/nominate/">
 		<img src="https://img.shields.io/badge/GitHub%20Star-Nominate%20%40msaaddev-%230F2345" alt="nominate @msaaddev for GitHub Star" />
 	</a>
