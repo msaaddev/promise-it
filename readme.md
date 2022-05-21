@@ -200,7 +200,7 @@ const { exec } = require('child_process');
 
 ## 👨🏻‍💻 Contributing
 
-Make sure you read the [contributing guidelines](https://github.com/msaaddev/new-tailwind-app/blob/master/contributing.md) before opening a PR. If you want something else to **integrate** with the CLI, open an issue in the repository and I will get back to it.
+Make sure you read the [contributing guidelines](https://github.com/msaaddev/new-tailwind-app/blob/master/contributing.md) before opening a PR.
 
 ## ⚡️ Other Projects
 
