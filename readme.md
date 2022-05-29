@@ -18,7 +18,7 @@
 
 -   **Simple**: Provides abstraction of the promise syntax from you
 -   **Easy to use**: No need to learn JavaScript promise syntax
--   **Promise**: Turns any function into a promis
+-   **Promise**: Turns any function into a promise
 -   **All promises**: Provides a way to chain all promises and returns the result collectively
 -   **Any promise**: Takes array of promise and returns a promise that resolves when any of the promise is resolved
 -   **All settled promises**: Takes array of promise and returns a promise that resolves when all promises are settled
