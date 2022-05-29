@@ -16,7 +16,7 @@
 
 ![separator](assets/separator.jpeg)
 
--   **Simple**: Provides abstraction of the promise syntax from you
+-   **Simple**: Adds abstraction to the promise syntax
 -   **Easy to use**: No need to learn JavaScript promise syntax
 -   **Promise**: Turns any function into a promise
 -   **All promises**: Provides a way to chain all promises and returns the result collectively
